@@ -1,6 +1,6 @@
 # Maximiliano Dentesani
 
-Desarrollador especializado en desarrollo móvil y web.
+Desarrollador especializado en desarrollo móvil y web. Co-Founder.
 
 ## Stack
 
